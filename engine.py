@@ -8,3 +8,5 @@ def f(x):
 
 print(f'{f(3.0)}')
 
+xs = np.arange(-10, 10, 0.225)
+print(f'{f(xs)}')
